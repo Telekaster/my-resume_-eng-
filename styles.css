@@ -46,11 +46,14 @@ body {
 
 /* Work places information */
 .work-places-section {
+  display: block;
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
   color: #000000;
+  background-color: #f5f7fa;
+  padding: 15px;
 }
 
 .main-content-title {
@@ -84,7 +87,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #1e2939;
 }
 
 .work-companies {
@@ -96,6 +99,8 @@ body {
 }
 
 .manager {
+  /* display: block; */
+  margin-left: 5px;
   color: #fb6d3a;
 }
 
