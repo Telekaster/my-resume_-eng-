@@ -78,6 +78,23 @@ body {
   padding: 0 0 0 17px;
 }
 
+.project_main_list {
+  margin-bottom: 20px;
+}
+
+.project_list {
+  list-style: none;
+  padding: 0px;
+}
+
+.project_item_name {
+  margin-right: 5px;
+}
+
+.project_item {
+  margin-right: 5px;
+}
+
 .my-projects-numbers {
   font-style: normal;
   font-weight: bold;
@@ -154,7 +171,7 @@ body {
   line-height: 27px;
   color: #fff;
   margin-left: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 /* Contacts section */
