@@ -39,7 +39,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
   width: 600px;
   margin-bottom: 50px;
 }
@@ -52,7 +52,7 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #000000;
-  background-color: #f5f7fa;
+  /* background-color: #f5f7fa; */
   padding: 15px;
 }
 
@@ -132,7 +132,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #000;
   margin-top: 10px;
   margin-bottom: 10px;
 }
